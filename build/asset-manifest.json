@@ -1,10 +1,13 @@
 {
   "files": {
-    "main.js": "/chandnisatpute/XDISPLAYNAMES/static/js/main.e8b30cc7.js",
+    "main.css": "/chandnisatpute/XDISPLAYNAMES/static/css/main.7ad4b5d0.css",
+    "main.js": "/chandnisatpute/XDISPLAYNAMES/static/js/main.05121aa9.js",
     "index.html": "/chandnisatpute/XDISPLAYNAMES/index.html",
-    "main.e8b30cc7.js.map": "/chandnisatpute/XDISPLAYNAMES/static/js/main.e8b30cc7.js.map"
+    "main.7ad4b5d0.css.map": "/chandnisatpute/XDISPLAYNAMES/static/css/main.7ad4b5d0.css.map",
+    "main.05121aa9.js.map": "/chandnisatpute/XDISPLAYNAMES/static/js/main.05121aa9.js.map"
   },
   "entrypoints": [
-    "static/js/main.e8b30cc7.js"
+    "static/css/main.7ad4b5d0.css",
+    "static/js/main.05121aa9.js"
   ]
 }
